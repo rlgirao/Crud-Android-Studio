@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="txt_nome">Titulo</string>
+    <string name="txt_autor">Autor</string>
+    <string name="txt_ano">Ano</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="txt_cadastrar">Cadastrar</string>
+    <string name="txt_pesquisar">Pesquisar</string>
+    <string name="txt_atualizar">Atualizar</string>
+    <string name="txt_excluir">Excluir</string>
+</resources>
